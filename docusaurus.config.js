@@ -14,7 +14,7 @@ const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://github.com',
-  baseUrl: '/tezhunt/',
+  baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.ico',
