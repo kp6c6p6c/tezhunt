@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktezhunt=self.webpackChunktezhunt||[]).push([[31],{1735:function(e){e.exports=JSON.parse('{"permalink":"/tezhunt/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

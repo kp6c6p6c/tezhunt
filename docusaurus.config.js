@@ -13,12 +13,12 @@
 const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://stepandra.github.io/tezhunt/',
+  url: 'https://github.com',
   baseUrl: '/tezhunt/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.ico',
-  organizationName: 'stepandra', // Usually your GitHub org/user name.
+  organizationName: 'stepandra', // Usually your GistHub org/user name.
   projectName: 'tezhunt', // Usually your repo name.
   trailingSlash: true,
 
