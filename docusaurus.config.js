@@ -15,6 +15,7 @@ const config = {
   tagline: 'The tagline of my site',
   url: 'https://github.com',
   baseUrl: '/',
+  baseUrlIssueBanner: true,
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.ico',
