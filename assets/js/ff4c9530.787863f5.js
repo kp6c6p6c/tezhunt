@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktezhunt=self.webpackChunktezhunt||[]).push([[567],{7536:function(u){u.exports=JSON.parse('{"allTagsPath":"/tezhunt/blog/tags","slug":"/tezhunt/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/tezhunt/blog/tags/docusaurus"}')}}]);

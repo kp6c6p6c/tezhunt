@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktezhunt=self.webpackChunktezhunt||[]).push([[291],{7320:function(e){e.exports=JSON.parse('{"permalink":"/tezhunt/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

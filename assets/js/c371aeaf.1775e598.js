@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktezhunt=self.webpackChunktezhunt||[]).push([[480],{9268:function(t){t.exports=JSON.parse('{"allTagsPath":"/tezhunt/blog/tags","slug":"/tezhunt/blog/tags/facebook","name":"facebook","count":1,"permalink":"/tezhunt/blog/tags/facebook"}')}}]);
