@@ -6,19 +6,20 @@ Modify the docusaurus.config.js file at your site's root instead.
 export default {
   "title": "My Site",
   "tagline": "The tagline of my site",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://stepandra.github.io/tezhunt/",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenLinks": "log",
+  "onBrokenMarkdownLinks": "log",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "stepandra",
+  "projectName": "tezhunt",
+  "trailingSlash": true,
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/jerryjohnson/dev/huntez/tezhunt/sidebars.js",
+          "sidebarPath": "/Users/jerryjohnson/dev/tezhunt/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -26,7 +27,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/jerryjohnson/dev/huntez/tezhunt/src/css/custom.css"
+          "customCss": "/Users/jerryjohnson/dev/tezhunt/src/css/custom.css"
         }
       }
     ]

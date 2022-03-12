@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/jerryjohnson/dev/huntez/tezhunt/sidebars.js",
-          "contentPath": "/Users/jerryjohnson/dev/huntez/tezhunt/docs",
-          "contentPathLocalized": "/Users/jerryjohnson/dev/huntez/tezhunt/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/jerryjohnson/dev/tezhunt/sidebars.js",
+          "contentPath": "/Users/jerryjohnson/dev/tezhunt/docs",
+          "contentPathLocalized": "/Users/jerryjohnson/dev/tezhunt/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",

@@ -13,14 +13,14 @@
 const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://stepandra.github.io/tezhunt/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'log',
+  onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.ico',
   organizationName: 'stepandra', // Usually your GitHub org/user name.
   projectName: 'tezhunt', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
 
   presets: [
     [
