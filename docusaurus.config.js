@@ -13,8 +13,8 @@
 const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://wandering-paper-6232.on.fleek.co/',
-  baseUrl: '/ipfs/QmSuw2VkX74P4xGjEQfTsvPv3PbayDr8VLkZoR4fD2KuVq/',
+  url: 'https://fleek.co/',
+  baseUrl: '/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
